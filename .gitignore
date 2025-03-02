@@ -10,7 +10,9 @@
 
 # production
 /build
-
+/TaskApp-linux-x64
+/TaskApp-win32-x64
+/release-build
 # misc
 .DS_Store
 .env.local
